@@ -4,6 +4,7 @@
 # NotePad++: Lightweight text editor for quick changes and batch scripting
 # VSCode: Text editor preferably used with bigger files and html/css/java
 # Git/Hub/GUI/CMD: version control, obviously
+
 # MSVisualStudio: for C++ and more machine level interaction w/ CUDA libraries
 # CudaToolKit: for GPU programming
 # Cuda:: NCCL
