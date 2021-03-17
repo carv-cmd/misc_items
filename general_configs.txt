@@ -1,0 +1,32 @@
+--- Programming ---
+# Anaconda 3: manages different python version environments and packages
+# PycharmCommunity: Python IDE of choice
+# NotePad++: Lightweight text editor for quick changes and batch scripting
+# VSCode: Text editor preferably used with bigger files and html/css/java
+# Git/Hub/GUI/CMD: version control, obviously
+# MSVisualStudio: for C++ and more machine level interaction w/ CUDA libraries
+# CudaToolKit: for GPU programming
+# Cuda:: NCCL
+
+--- Machine Learn Libraries ---
+# "ML": SciPy, NumPy, Pandas, Matplotlib, Statsmodels, and Scikit-learn
+
+--- Deep Learning Libraries ---
+# Caffe2, Chainer, MxNet, PyTorch and TensorFlow(gpu) 
+# "DeepLearning": Theano, *Keras*, TensorFlow(cpu)
+# "GPU-Computing": CudaToolKit, Numba, PyCuda, MXNet, PyTorch, TensorFlow-gpu
+
+--- Hardware and Software --- 
+# IntelExtremeTuningUtility: Monitor resource demand real time for code and programs in general on your machine
+# MSI Afterburner: Realtime GPU resource monitoring
+# GPU-Z: Provides information on the graphics card inside your machine
+# SpeedTest: connection testing
+# SysInternals: Microsoft signed software tools. Try these before thrid party options
+# CrystalDiskMark: Main memory benchmark utility 
+# CrystalDiskInfo: Main memory info utility 
+# hwloc-win64-build-2.4.0: Describes the hardware architecture of your machine 
+# InstalledAppViewer: This is one of the sketchy ones where you can nuke important stuff on accident
+# Malwarebytes: Because fuck you microsoft and windows defender. That shits more invasive than rectal exam. 
+   and fuck your compatability telemetry too. Fucking weirdos need to learn some boundaries
+   
+**not liable for any damages inquired using these toos
