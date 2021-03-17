@@ -1,0 +1,52 @@
+Pricing as of: 3/16/2021
+
+# Phanteks Eclipse P600S  ~~$149.99
+**(Check Compatibility with Motherboard)
+
+# AMD Ryzen Threadripper 3970X  ~~$1,999.99
+32-Core, 64-Thread Unlocked
+
+# GIGABYTE TRX40 AORUS Master  ~~$499.00
+(sTRX AMD TRX40/Fins-Array Heatsink/16+3 Phases Infineon Digital VRM/3x PCIe 4.0x4 M.2/Intel WiFi 6/5GbE+1GbE LAN/E-ATX/AMD Motherboard)
+
+# RAM  ~~$350.00ish
+**(16gb) x 4_slots **(preferrably ECC) **(DDR4)
+**(Check height compatability with CPU cooler) **(check clock compatability for max freq)
+
+# Samsung (MZ-V7E1T0BW) 970 EVO SSD 1TB  ~~$434.97
+M.2 NVMe Interface Internal Solid State Drive with V-NAND Technology, Black/Red
+$144.99 x 3 
+
+# Noctua NH-U14S TR4-SP3 <--> Noctua NF-A14 PWM  ~~$89.95 <-->$21.95 
+CPU Cooler for AMD sTRX4/TR4/SP3 (140mm, Brown) <--> Quiet Fan, 4-Pin (140mm, Brown)
+** Push-Pull-config
+
+# Seasonic FOCUS GX-750, (850W)(**check)  ~~$149.99
+80+ Gold, Full-Modular, Fan Control in Fanless, Silent, and Cooling Mode, SSR-750FX.
+
+# Keychron K4 Wireless Version 2  ~~$99.00
+Ideal keyboard, razer mouse is fine 
+No razer bullshit. Just save mouse profile and delete synapse
+
+# Cables, CableTies, Misc  ~~$50
+Second Monitor  ~~$200
+
+-----------------------------------------------------------------------------------
+*** Total before taxes, GPU, and anything else I missed = $4,045 ***
+-----------------------------------------------------------------------------------
+
+# GPU? ~For all, check compatability with CPU, 
+*** The following GPUs can train all SOTA language and image models as of February 2020 ***
+RTX 8000: 48 GB VRAM, ~$5,500
+RTX 6000: 24 GB VRAM, ~$4,000
+Titan RTX: 24 GB VRAM, ~$2,500
+*** Check how RTX 3090 is performing in deep learning ***
+RTX 3090: 24 GB VRAM, ~$1,500
+
+-----------------------------------------------------------------------------------
+*** TOTAL BEFORE TAXES: (as of 3/16/2021 from amzn) ***
+w/ RTX 8000: 48 GB: ~~$9,545
+w/ RTX 6000: 24 GB: ~~$8,045
+w/ titan RTX: 24 GB: ~~$6,545
+w/ RTX 3090: 24 BG: ~~$5,545
+-----------------------------------------------------------------------------------
